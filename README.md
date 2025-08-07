@@ -11,5 +11,3 @@ A simple Python tool to calculate both simple and compound interest.
 python main.py
 ```
 
-## Author
-Generated with 💡 by ChatGPT
